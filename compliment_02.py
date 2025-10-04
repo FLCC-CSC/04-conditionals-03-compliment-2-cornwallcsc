@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: OCTAVIA CORNWALL
+# DATE: OCTOBER 4, 2025
+# BRIEF DESCRIPTION: COMPLIMENT 02
 
 
 
@@ -15,15 +15,14 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+answer = input('Would you like a compliment? ')
 
+if answer == 'yes':
+    print('You have wonderful eyes.')
 
-
-
-
-
-
-
-
+else:
+    print('No compliment for you!')
+print('Thank you for playing.') 
 ########### END YER CODE ABOVE THIS LINE ###########
 
     
@@ -70,7 +69,7 @@ Thank you for playing.
 '''
 
 1. Did you struggle with this lab (YES/NO)?
-
+NO
 
 
 
